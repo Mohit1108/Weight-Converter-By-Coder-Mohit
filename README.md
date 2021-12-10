@@ -2,9 +2,9 @@
 
 **Weight Converter Project using Python with GUI BY Coder Mohit**
 
-For Python Programming Course – Click Here!
-For Python Basic Codes – Click Here!
-For Python Basic Codes – Click Here!
+
+https://techycodes.tech/weight-converter-project-using-python-with-gui/
+
 **About project:**
 
 This Weight converter Project is a simplest project Created using Python language.
